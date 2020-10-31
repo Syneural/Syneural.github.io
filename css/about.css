@@ -1,0 +1,40 @@
+body{
+    font-family: sans-serif;
+    background-color: #1E96FC;
+}
+
+.header {
+    text-align: center;
+    color: white;
+    font-size: 50px;
+}
+
+.container {
+    margin: 200px;
+}
+.bodyofheader {
+    font-size: 35px;
+    margin-left: 50px;
+    margin-right: 50px;
+    text-align: left;
+    color: HSL(229,93%,90%);
+}
+
+.team {
+    text-align: center;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+}
+
+.member {
+    background-color: RGBA(7,42,200,.5);
+    color: #C8E9E9;
+    border: .5px black solid;
+    border-radius: 25px;
+    margin: 20px;
+}
+
+#join {
+    grid-column: 1/3;
+
+}
