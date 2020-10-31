@@ -1,1 +1,0 @@
-# Syneural.github.io
