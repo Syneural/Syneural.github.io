@@ -1,6 +1,6 @@
 body{
     font-family: sans-serif;
-    background-color: #1E96FC;
+    background-color: #202020;
 }
 
 .header {
@@ -13,7 +13,7 @@ body{
     margin: 200px;
 }
 .bodyofheader {
-    font-size: 35px;
+    font-size: 25px;
     margin-left: 50px;
     margin-right: 50px;
     text-align: left;
@@ -27,14 +27,15 @@ body{
 }
 
 .member {
-    background-color: RGBA(7,42,200,.5);
+    /* background-color: RGBA(7,42,200,.5); */
+    background-color: #000b5c;
     color: #C8E9E9;
     border: .5px black solid;
-    border-radius: 25px;
+    /* border-radius: 200px; */
+    padding: 50px;
     margin: 20px;
 }
 
 #join {
     grid-column: 1/3;
-
 }
